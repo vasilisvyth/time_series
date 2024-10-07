@@ -1,3 +1,7 @@
+Data:
+
+Create a folder named data and put [this folder](https://drive.google.com/drive/folders/1osVwoZmfAC1sZcIwz9jJVUb4UkIxiIXy?usp=sharing) there
+
 Scripts
 1. check_stationarity.py
 
@@ -21,3 +25,4 @@ This script runs machine learning algorithms for time series regression. It curr
 
     Random Forest Regressor: A powerful ensemble learning method based on decision trees.
     XGBRFRegressor: XGBoost's Random Forest variant, which combines the benefits of gradient boosting and random forest methods for robust predictions.
+
